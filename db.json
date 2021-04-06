@@ -2,7 +2,7 @@
   {
     "id": 201,
     "name": "Apple",
-    "price": 2€,
+    "price": 2,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 2.44,
@@ -14,7 +14,7 @@
   {
     "id": 202,
     "name": "Pear",
-    "price": 2€,
+    "price": 2,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 2.18,
@@ -27,7 +27,7 @@
   {
     "id": 203,
     "name": "Orange",
-    "price": 3€,
+    "price": 3,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 0.91,
@@ -40,7 +40,7 @@
   {
     "id": 204,
     "name": "Pomegranate",
-    "price": 5€,
+    "price": 5,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 3.11,
@@ -53,7 +53,7 @@
   {
     "id": 205,
     "name": "Bananas",
-    "price": 7€,
+    "price": 7,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 2.42,
