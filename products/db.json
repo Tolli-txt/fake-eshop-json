@@ -1,0 +1,66 @@
+[
+    {
+      "id": 201,
+      "name": "Apple",
+      "price": 2,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 2.44,
+      "content": "This is a placeholder text for this Apple. It is a red apple (duh).",
+      "typeVariant": "D",
+      "colorVariant": "5",
+      "imageUrl": "https://puu.sh/HvXMd/c6a54f5d11.png"
+    },
+    {
+      "id": 202,
+      "name": "Pear",
+      "price": 2,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 2.18,
+      "content": "This is a placeholder text for this Pear.",
+      "review": 67,
+      "typeVariant": "A",
+      "colorVariant": "4",
+      "imageUrl": "https://puu.sh/HvXMw/7f0d2dca26.png"
+    },
+    {
+      "id": 203,
+      "name": "Orange",
+      "price": 3,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 0.91,
+      "content": "This is an orange colored Orange. Crush it for orange juice.",
+      "review": 116,
+      "typeVariant": "E",
+      "colorVariant": "2",
+      "imageUrl": "https://puu.sh/HvXMP/8631bdd573.png"
+    },
+    {
+      "id": 204,
+      "name": "Pomegranate",
+      "price": 5,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 3.11,
+      "content": "This is a pomegranate... Pomegranate juice is best juice.",
+      "review": 78,
+      "typeVariant": "D",
+      "colorVariant": "3",
+      "imageUrl": "https://puu.sh/HvXN8/467708b47b.png"
+    },
+    {
+      "id": 205,
+      "name": "Bananas",
+      "price": 7,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 2.42,
+      "content": "This is a stack of bananas. Bananas are for monkeys, drink gainomax.",
+      "review": 156,
+      "typeVariant": "A",
+      "colorVariant": "2",
+      "imageUrl": "https://puu.sh/HvXNm/4bb4b58574.png"
+    }
+]
