@@ -1,4 +1,5 @@
-[
+{
+  "products": [
     {
       "id": 201,
       "name": "Apple",
@@ -63,4 +64,5 @@
       "colorVariant": "2",
       "imageUrl": "https://puu.sh/HvXNm/4bb4b58574.png"
     }
-]
+  ]
+}
